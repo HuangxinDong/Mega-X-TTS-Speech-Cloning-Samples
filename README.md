@@ -8,10 +8,10 @@ Sample: `SSB01390359.wav`
 > The two men and one woman in this case all have their own familys. (这起案件当中的两男一女都另有家室)
 
 Test Set:
-{% audio https://github.com/HuangxinDong/XTTS-Tacotron2-Speech-Cloning-Samples/blob/main/test_sample/SSB0139/SSB01390359.wav %}
+[Listen to Test Set](https://github.com/HuangxinDong/XTTS-Tacotron2-Speech-Cloning-Samples/blob/main/test_sample/SSB0139/SSB01390359.wav)
 
 XTTS Speech Cloning Result:
-{% audio https://github.com/HuangxinDong/XTTS-Tacotron2-Speech-Cloning-Samples/blob/main/voice_cloning_samples/XTTS/SSB01390359.wav %}
+[Listen to XTTS Speech Cloning Result](https://github.com/HuangxinDong/XTTS-Tacotron2-Speech-Cloning-Samples/blob/main/voice_cloning_samples/XTTS/SSB01390359.wav)
 
 ---
 
@@ -20,9 +20,9 @@ XTTS Speech Cloning Result:
 > 这起案件当中的两男一女都另有家室。
 
 - 测试集:
+[Listen to Test Set](https://github.com/HuangxinDong/XTTS-Tacotron2-Speech-Cloning-Samples/blob/main/test_sample/SSB0139/SSB01390359.wav)
 
-{% audio https://github.com/HuangxinDong/XTTS-Tacotron2-Speech-Cloning-Samples/blob/main/test_sample/SSB0139/SSB01390359.wav %}
 
 - XTTS语音克隆结果：
 
-{% audio https://github.com/HuangxinDong/XTTS-Tacotron2-Speech-Cloning-Samples/blob/main/voice_cloning_samples/XTTS/SSB01390359.wav %}
+[Listen to XTTS Speech Cloning Result](https://github.com/HuangxinDong/XTTS-Tacotron2-Speech-Cloning-Samples/blob/main/voice_cloning_samples/XTTS/SSB01390359.wav)
