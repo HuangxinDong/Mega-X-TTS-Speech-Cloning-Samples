@@ -3,6 +3,8 @@ This repository stores sample projects for my undergraduate thesis on speech clo
 
 The speech data used in this example is from the [AISHELL-3 Open Source HI-FI Mandarin Speech corpus](https://www.aishelltech.com/aishell_3), with the speaker ID being SSB0139.
 
+## Sample Audio Clip | 样例试听
+
 Sample: `SSB01390359.wav`
 
 > The two men and one woman in this case all have their own familys. 
